@@ -1,2 +1,2 @@
 # invie-github
-[Clase Platzi] Tus mejores guitarras invie-sibles
+[Clase Platzi] Tus mejores guitarras invie-sibles by @Platzi
